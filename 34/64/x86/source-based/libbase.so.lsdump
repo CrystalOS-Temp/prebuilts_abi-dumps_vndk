@@ -851,23 +851,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEdLi0EEET0_S5_T1_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEdLi0EEET0_S5_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE"
   },
   {
    "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEeLi0EEET0_S5_T1_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEeLi0EEET0_S5_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEfLi0EEET0_S5_T1_"
   },
   {
    "binding" : "weak",
@@ -891,23 +879,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEdLi0EEET0_S8_T1_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEdLi0EEET0_S8_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE"
   },
   {
    "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEeLi0EEET0_S8_T1_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEeLi0EEET0_S8_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEfLi0EEET0_S8_T1_"
   },
   {
    "binding" : "weak",
@@ -916,18 +892,6 @@
   {
    "binding" : "weak",
    "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEEET0_SC_PKT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEdLi0EEET0_SC_T1_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEeLi0EEET0_SC_T1_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEfLi0EEET0_SC_T1_"
   },
   {
    "binding" : "weak",
@@ -1297,22 +1261,6 @@
   },
   {
    "name" : "_ZN7android4base9ParseBoolENSt3__117basic_string_viewIcNS1_11char_traitsIcEEEE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintIhEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintIjEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintItEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintIyEEbPKcPT_S4_b"
   },
   {
    "name" : "_ZN7android4base9ReadFullyENS0_11borrowed_fdEPvj"
@@ -3615,27 +3563,6 @@
   },
   {
    "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEdLi0EEET0_S5_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE"
-    },
-    {
-     "referenced_type" : "_ZTId"
-    }
-   ],
-   "return_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-    "_ZTId"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
    "linker_set_key" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEdLi0EEET0_S5_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE",
    "parameters" :
    [
@@ -3664,27 +3591,6 @@
   },
   {
    "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEeLi0EEET0_S5_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE"
-    },
-    {
-     "referenced_type" : "_ZTIe"
-    }
-   ],
-   "return_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-    "_ZTIe"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
    "linker_set_key" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEeLi0EEET0_S5_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE",
    "parameters" :
    [
@@ -3709,27 +3615,6 @@
     "_ZTIc",
     "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
     "_ZTIe"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNS1_15buffer_appenderIcEEfLi0EEET0_S5_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE"
-    },
-    {
-     "referenced_type" : "_ZTIf"
-    }
-   ],
-   "return_type" : "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTIN3fmt2v76detail15buffer_appenderIcEE",
-    "_ZTIf"
    ]
   },
   {
@@ -3846,27 +3731,6 @@
   },
   {
    "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEdLi0EEET0_S8_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE"
-    },
-    {
-     "referenced_type" : "_ZTId"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-    "_ZTId"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
    "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEdLi0EEET0_S8_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE",
    "parameters" :
    [
@@ -3895,27 +3759,6 @@
   },
   {
    "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEeLi0EEET0_S8_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE"
-    },
-    {
-     "referenced_type" : "_ZTIe"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-    "_ZTIe"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
    "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEeLi0EEET0_S8_T1_NS0_18basic_format_specsIT_EENS1_10locale_refE",
    "parameters" :
    [
@@ -3940,27 +3783,6 @@
     "_ZTIc",
     "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
     "_ZTIe"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS1_6bufferIcEEEEfLi0EEET0_S8_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE"
-    },
-    {
-     "referenced_type" : "_ZTIf"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorIN3fmt2v76detail6bufferIcEEEE",
-    "_ZTIf"
    ]
   },
   {
@@ -4009,69 +3831,6 @@
    [
     "_ZTIc",
     "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEdLi0EEET0_SC_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE"
-    },
-    {
-     "referenced_type" : "_ZTId"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-    "_ZTId"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEeLi0EEET0_SC_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE"
-    },
-    {
-     "referenced_type" : "_ZTIe"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-    "_ZTIe"
-   ]
-  },
-  {
-   "function_name" : "fmt::detail::write",
-   "linker_set_key" : "_ZN3fmt2v76detail5writeIcNSt3__120back_insert_iteratorINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEEfLi0EEET0_SC_T1_",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE"
-    },
-    {
-     "referenced_type" : "_ZTIf"
-    }
-   ],
-   "return_type" : "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-   "source_file" : "external/fmtlib/include/fmt/format.h",
-   "template_args" :
-   [
-    "_ZTIc",
-    "_ZTINSt3__120back_insert_iteratorINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEE",
-    "_ZTIf"
    ]
   },
   {
@@ -5753,114 +5512,6 @@
    ],
    "return_type" : "_ZTIN7android4base15ParseBoolResultE",
    "source_file" : "system/libbase/include/android-base/parsebool.h"
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintIhEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPh"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIh"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIh"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintIjEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIj"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintItEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPt"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIt"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintIyEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPy"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIy"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIy"
-   ]
   },
   {
    "function_name" : "android::base::ReadFully",

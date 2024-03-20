@@ -1302,10 +1302,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj10EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1330,10 +1326,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1342,7 +1334,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1E19__simd128_float32_tfEEvPT3_PKS5_jjjS6_S8_j"
   },
   {
    "binding" : "weak",
@@ -1370,15 +1366,19 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
    "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1ENS0_10intrinsics16internal_array_tIfLj9EEEfEEvPT3_PKS7_jjjS8_SA_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
   },
   {
    "binding" : "weak",
@@ -1406,10 +1406,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1419,6 +1415,10 @@
   {
    "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
   },
   {
    "binding" : "weak",
@@ -1446,10 +1446,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1459,6 +1455,10 @@
   {
    "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1E19__simd128_float32_tfEEvPT3_PKS5_jjjS6_S8_j"
   },
   {
    "binding" : "weak",
@@ -1490,10 +1490,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1502,7 +1498,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
   },
   {
    "binding" : "weak",
@@ -1534,10 +1530,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
@@ -1546,7 +1538,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j"
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
   },
   {
    "binding" : "weak",
@@ -1574,15 +1566,15 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j"
   },
   {
    "binding" : "weak",
    "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1ENS0_10intrinsics16internal_array_tIfLj9EEEfEEvPT3_PKS7_jjjS8_SA_j"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1EffEEvPT3_PKS4_jjjS5_S7_j"
   },
   {
    "name" : "_ZN7android11audio_utils8channels11IChannelMix28isOutputChannelMaskSupportedE20audio_channel_mask_t"
@@ -1999,6 +1991,14 @@
   },
   {
    "binding" : "weak",
+   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIjPKNS_5arrayINS2_IfLj5EEELj3EEEEENS_22__unordered_map_hasherIjS7_NS_4hashIjEELb1EEENS_21__unordered_map_equalIjS7_NS_8equal_toIjEELb1EEENS_9allocatorIS7_EEE25__emplace_unique_key_argsIjJRKNS_4pairIKjS6_EEEEENSK_INS_15__hash_iteratorIPNS_11__hash_nodeIS7_PvEEEEbEERKT_DpOT0_"
+  },
+  {
+   "binding" : "weak",
+   "name" : "_ZNSt3__112__hash_tableINS_17__hash_value_typeIjPKNS_5arrayINS2_IfLj5EEELj3EEEEENS_22__unordered_map_hasherIjS7_NS_4hashIjEELb1EEENS_21__unordered_map_equalIjS7_NS_8equal_toIjEELb1EEENS_9allocatorIS7_EEE8__rehashEj"
+  },
+  {
+   "binding" : "weak",
    "name" : "_ZNSt3__112basic_stringIhNS_11char_traitsIhEENS_9allocatorIhEEE21__grow_by_and_replaceEjjjjjjPKh"
   },
   {
@@ -2079,26 +2079,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE16__construct_nodeIJPKcS7_EEENS_10unique_ptrINS_11__tree_nodeISC_PvEENS_22__tree_node_destructorINS5_ISP_EEEEEEDpOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE16__construct_nodeIJPKcfEEENS_10unique_ptrINS_11__tree_nodeISC_PvEENS_22__tree_node_destructorINS5_ISP_EEEEEEDpOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE16__construct_nodeIJPKciEEENS_10unique_ptrINS_11__tree_nodeISC_PvEENS_22__tree_node_destructorINS5_ISP_EEEEEEDpOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE16__construct_nodeIJRPKcRfEEENS_10unique_ptrINS_11__tree_nodeISC_PvEENS_22__tree_node_destructorINS5_ISR_EEEEEEDpOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE16__construct_nodeIJRPKcRiEEENS_10unique_ptrINS_11__tree_nodeISC_PvEENS_22__tree_node_destructorINS5_ISR_EEEEEEDpOT_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE21__emplace_unique_implIJPKcNSA_4DataEEEENS_4pairINS_15__tree_iteratorISC_PNS_11__tree_nodeISC_PvEEiEEbEEDpOT_"
   },
   {
@@ -2147,19 +2127,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE25__emplace_unique_key_argsIS7_JS7_SB_EEENS_4pairINS_15__tree_iteratorISC_PNS_11__tree_nodeISC_PvEEiEEbEERKT_DpOT0_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE30__emplace_hint_unique_key_argsIS7_JRKNS_4pairIKS7_SB_EEEEENS_15__tree_iteratorISC_PNS_11__tree_nodeISC_PvEEiEENS_21__tree_const_iteratorISC_ST_iEERKT_DpOT0_"
   },
   {
    "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE4findIS7_EENS_15__tree_iteratorISC_PNS_11__tree_nodeISC_PvEEiEERKT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android11audio_utils8metadata5DatumEEENS_19__map_value_compareIS7_SC_NS_4lessIS7_EELb1EEENS5_ISC_EEE5eraseENS_21__tree_const_iteratorISC_PNS_11__tree_nodeISC_PvEEiEE"
   },
   {
    "binding" : "weak",
@@ -9867,45 +9839,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTI13float32x4x2_t",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj10EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -10140,45 +10073,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -10257,7 +10151,7 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj11ELb1EffEEvPT3_PKS4_jjjS5_S7_j",
    "parameters" :
    [
     {
@@ -10290,7 +10184,46 @@
    "template_args" :
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTI13float32x4x2_t",
+    "_ZTIf",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1E19__simd128_float32_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTI19__simd128_float32_t",
     "_ZTIf"
    ]
   },
@@ -10530,45 +10463,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -10642,6 +10536,84 @@
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
     "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj9EEE",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj1ELb1EffEEvPT3_PKS4_jjjS5_S7_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTIf",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTI13float32x4x2_t",
     "_ZTIf"
    ]
   },
@@ -10881,45 +10853,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj27ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -11032,6 +10965,45 @@
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
     "_ZTIf",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTI13float32x4x2_t",
     "_ZTIf"
    ]
   },
@@ -11271,45 +11243,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj31ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -11422,6 +11355,45 @@
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
     "_ZTIf",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1E19__simd128_float32_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTI19__simd128_float32_t",
     "_ZTIf"
    ]
   },
@@ -11700,45 +11672,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -11817,7 +11750,7 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj3ELb1EffEEvPT3_PKS4_jjjS5_S7_j",
    "parameters" :
    [
     {
@@ -11850,7 +11783,7 @@
    "template_args" :
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTI13float32x4x2_t",
+    "_ZTIf",
     "_ZTIf"
    ]
   },
@@ -12129,45 +12062,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -12246,7 +12140,7 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1E13float32x4x2_tfEEvPT3_PKS5_jjjS6_S8_j",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj7ELb1EffEEvPT3_PKS4_jjjS5_S7_j",
    "parameters" :
    [
     {
@@ -12279,7 +12173,7 @@
    "template_args" :
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTI13float32x4x2_t",
+    "_ZTIf",
     "_ZTIf"
    ]
   },
@@ -12519,45 +12413,6 @@
   },
   {
    "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
-   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1ENS0_10intrinsics16internal_array_tIfLj6EEEfEEvPT3_PKS7_jjjS8_SA_j",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPf"
-    },
-    {
-     "referenced_type" : "_ZTIPKf"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
-   "template_args" :
-   [
-    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
-    "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj6EEE",
-    "_ZTIf"
-   ]
-  },
-  {
-   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
    "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1ENS0_10intrinsics16internal_array_tIfLj7EEEfEEvPT3_PKS7_jjjS8_SA_j",
    "parameters" :
    [
@@ -12631,6 +12486,45 @@
    [
     "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
     "_ZTIN7android11audio_utils10intrinsics16internal_array_tIfLj9EEE",
+    "_ZTIf"
+   ]
+  },
+  {
+   "function_name" : "android::audio_utils::details::biquad_filter_func_impl",
+   "linker_set_key" : "_ZN7android11audio_utils7details23biquad_filter_func_implINS1_25DefaultBiquadConstOptionsELj9ELb1EffEEvPT3_PKS4_jjjS5_S7_j",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIPf"
+    },
+    {
+     "referenced_type" : "_ZTIPKf"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "return_type" : "_ZTIv",
+   "source_file" : "system/media/audio_utils/include/audio_utils/BiquadFilter.h",
+   "template_args" :
+   [
+    "_ZTIN7android11audio_utils7details25DefaultBiquadConstOptionsE",
+    "_ZTIf",
     "_ZTIf"
    ]
   },

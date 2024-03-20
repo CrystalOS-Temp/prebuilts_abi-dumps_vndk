@@ -198,10 +198,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE5writeEPKS6_j"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EEC2ERKNS2_IS6_LS7_1EEEb"
   },
   {
@@ -246,15 +242,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEC2EjP13native_handlejb"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEaSERKS7_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_025BufferInvalidationMessageELNS0_8MQFlavorE2EEC2EjP13native_handlejb"
   },
   {
    "binding" : "weak",
@@ -806,10 +794,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNK7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE9beginReadEjPNS8_14MemTransactionE"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNK7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_025BufferInvalidationMessageELNS1_8MQFlavorE2EE10beginWriteEjPNS8_14MemTransactionE"
   },
   {
@@ -874,18 +858,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIjKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEEEENS_19__map_value_compareIjSD_NS_4lessIjEELb1EEENS_9allocatorISD_EEE12__find_equalIjEERPNS_16__tree_node_baseIPvEENS_21__tree_const_iteratorISD_PNS_11__tree_nodeISD_SN_EEiEERPNS_15__tree_end_nodeISP_EESQ_RKT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIjKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEEEENS_19__map_value_compareIjSD_NS_4lessIjEELb1EEENS_9allocatorISD_EEE14__erase_uniqueIjEEjRKT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIjKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEEEENS_19__map_value_compareIjSD_NS_4lessIjEELb1EEENS_9allocatorISD_EEE30__emplace_hint_unique_key_argsIjJRKNS_4pairIKjSC_EEEEENS_15__tree_iteratorISD_PNS_11__tree_nodeISD_PvEEiEENS_21__tree_const_iteratorISD_SV_iEERKT_DpOT0_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeIjKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation8Accessor4ImplEEEEENS_19__map_value_compareIjSD_NS_4lessIjEELb1EEENS_9allocatorISD_EEE7destroyEPNS_11__tree_nodeISD_PvEE"
   },
   {
@@ -914,10 +886,6 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIxKN7android2spINS2_8hardware5media10bufferpool4V2_09IObserverEEEEENS_19__map_value_compareIxSB_NS_4lessIxEELb1EEENS_9allocatorISB_EEE25__emplace_unique_key_argsIxJRKxRSA_EEENS_4pairINS_15__tree_iteratorISB_PNS_11__tree_nodeISB_PvEEiEEbEERKT_DpOT0_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeIxKN7android2spINS2_8hardware5media10bufferpool4V2_09IObserverEEEEENS_19__map_value_compareIxSB_NS_4lessIxEELb1EEENS_9allocatorISB_EEE7destroyEPNS_11__tree_nodeISB_PvEE"
   },
   {
@@ -926,19 +894,11 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIxKN7android2wpINS2_8hardware5media10bufferpool4V2_014implementation8AccessorEEEEENS_19__map_value_compareIxSC_NS_4lessIxEELb1EEENS_9allocatorISC_EEE25__emplace_unique_key_argsIxJNS_4pairIxNS2_2spIS9_EEEEEEENSL_INS_15__tree_iteratorISC_PNS_11__tree_nodeISC_PvEEiEEbEERKT_DpOT0_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeIxKN7android2wpINS2_8hardware5media10bufferpool4V2_014implementation8AccessorEEEEENS_19__map_value_compareIxSC_NS_4lessIxEELb1EEENS_9allocatorISC_EEE7destroyEPNS_11__tree_nodeISC_PvEE"
   },
   {
    "binding" : "weak",
    "name" : "_ZNSt3__16__treeINS_12__value_typeIxKNS_10shared_ptrIN7android8hardware5media10bufferpool4V2_014implementation16BufferPoolClientEEEEENS_19__map_value_compareIxSC_NS_4lessIxEELb1EEENS_9allocatorISC_EEE7destroyEPNS_11__tree_nodeISC_PvEE"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16__treeINS_12__value_typeIxKNS_8weak_ptrIN7android8hardware5media10bufferpool4V2_014implementation16BufferPoolClientEEEEENS_19__map_value_compareIxSC_NS_4lessIxEELb1EEENS_9allocatorISC_EEE14__erase_uniqueIxEEjRKT_"
   },
   {
    "binding" : "weak",
@@ -1006,15 +966,7 @@
   },
   {
    "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIN7android8hardware5media10bufferpool4V2_019BufferStatusMessageENS_9allocatorIS6_EEE21__push_back_slow_pathIRKS6_EEvOT_"
-  },
-  {
-   "binding" : "weak",
    "name" : "_ZNSt3__16vectorIN7android8hardware5media10bufferpool4V2_025BufferInvalidationMessageENS_9allocatorIS6_EEE21__push_back_slow_pathIRKS6_EEvOT_"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZNSt3__16vectorIN7android8hardware5media10bufferpool4V2_025BufferInvalidationMessageENS_9allocatorIS6_EEE7reserveEj"
   },
   {
    "name" : "_ZTv0_n12_N7android8hardware5media10bufferpool4V2_014implementation10ConnectionD0Ev"
@@ -2900,25 +2852,6 @@
    "source_file" : "system/libfmq/include/fmq/MessageQueueBase.h"
   },
   {
-   "function_name" : "android::MessageQueueBase<android::hardware::MQDescriptor, android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::write",
-   "linker_set_key" : "_ZN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE5writeEPKS6_j",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EEE"
-    },
-    {
-     "referenced_type" : "_ZTIPKN7android8hardware5media10bufferpool4V2_019BufferStatusMessageE"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libfmq/include/fmq/MessageQueueBase.h"
-  },
-  {
    "function_name" : "android::MessageQueueBase<android::hardware::MQDescriptor, android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::MessageQueueBase",
    "linker_set_key" : "_ZN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EEC2ERKNS2_IS6_LS7_1EEEb",
    "parameters" :
@@ -3114,32 +3047,6 @@
    "source_file" : "system/core/libutils/include/utils/StrongPointer.h"
   },
   {
-   "function_name" : "android::hardware::MQDescriptor<android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::MQDescriptor",
-   "linker_set_key" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEC2EjP13native_handlejb",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEE"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIP13native_handle"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIv",
-   "source_file" : "system/libhidl/base/include/hidl/MQDescriptor.h"
-  },
-  {
    "function_name" : "android::hardware::MQDescriptor<android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::operator=",
    "linker_set_key" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEaSERKS7_",
    "parameters" :
@@ -3153,32 +3060,6 @@
     }
    ],
    "return_type" : "_ZTIRN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_019BufferStatusMessageELNS0_8MQFlavorE1EEE",
-   "source_file" : "system/libhidl/base/include/hidl/MQDescriptor.h"
-  },
-  {
-   "function_name" : "android::hardware::MQDescriptor<android::hardware::media::bufferpool::V2_0::BufferInvalidationMessage, android::hardware::kUnsynchronizedWrite>::MQDescriptor",
-   "linker_set_key" : "_ZN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_025BufferInvalidationMessageELNS0_8MQFlavorE2EEC2EjP13native_handlejb",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPN7android8hardware12MQDescriptorINS0_5media10bufferpool4V2_025BufferInvalidationMessageELNS0_8MQFlavorE2EEE"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIP13native_handle"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIv",
    "source_file" : "system/libhidl/base/include/hidl/MQDescriptor.h"
   },
   {
@@ -3459,25 +3340,6 @@
   {
    "function_name" : "android::MessageQueueBase<android::hardware::MQDescriptor, android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::beginWrite",
    "linker_set_key" : "_ZNK7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE10beginWriteEjPNS8_14MemTransactionE",
-   "parameters" :
-   [
-    {
-     "is_this_ptr" : true,
-     "referenced_type" : "_ZTIPKN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EEE"
-    },
-    {
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "referenced_type" : "_ZTIPN7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE14MemTransactionE"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libfmq/include/fmq/MessageQueueBase.h"
-  },
-  {
-   "function_name" : "android::MessageQueueBase<android::hardware::MQDescriptor, android::hardware::media::bufferpool::V2_0::BufferStatusMessage, android::hardware::kSynchronizedReadWrite>::beginRead",
-   "linker_set_key" : "_ZNK7android16MessageQueueBaseINS_8hardware12MQDescriptorENS1_5media10bufferpool4V2_019BufferStatusMessageELNS1_8MQFlavorE1EE9beginReadEjPNS8_14MemTransactionE",
    "parameters" :
    [
     {

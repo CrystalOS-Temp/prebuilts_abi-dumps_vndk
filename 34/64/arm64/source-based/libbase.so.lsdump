@@ -1312,22 +1312,6 @@
    "name" : "_ZN7android4base9ParseBoolENSt3__117basic_string_viewIcNS1_11char_traitsIcEEEE"
   },
   {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintIhEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintIjEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintImEEbPKcPT_S4_b"
-  },
-  {
-   "binding" : "weak",
-   "name" : "_ZN7android4base9ParseUintItEEbPKcPT_S4_b"
-  },
-  {
    "name" : "_ZN7android4base9ReadFullyENS0_11borrowed_fdEPvm"
   },
   {
@@ -5764,114 +5748,6 @@
    ],
    "return_type" : "_ZTIN7android4base15ParseBoolResultE",
    "source_file" : "system/libbase/include/android-base/parsebool.h"
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintIhEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPh"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIh"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIh"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintIjEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIj"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIj"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintImEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPm"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIm"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIm"
-   ]
-  },
-  {
-   "function_name" : "android::base::ParseUint",
-   "linker_set_key" : "_ZN7android4base9ParseUintItEEbPKcPT_S4_b",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPt"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "default_arg" : true,
-     "referenced_type" : "_ZTIb"
-    }
-   ],
-   "return_type" : "_ZTIb",
-   "source_file" : "system/libbase/include/android-base/parseint.h",
-   "template_args" :
-   [
-    "_ZTIt"
-   ]
   },
   {
    "function_name" : "android::base::ReadFully",
